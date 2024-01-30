@@ -1,0 +1,22 @@
+{
+  "name": "hg-2024-01-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escusado/hg-2024-01-architecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/escusado/hg-2024-01-architecture/issues"
+  },
+  "homepage": "https://github.com/escusado/hg-2024-01-architecture#readme",
+  "dependencies": {
+    "sdl2-gamecontroller": "^1.0.11"
+  }
+}
